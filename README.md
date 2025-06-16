@@ -1,1 +1,1 @@
-Using SQL to clean my dirty data. Familiarising myself with SQL syntax
+Using SQL to manually input and populate table, Clean dirty data, analyse data. Familiarising myself with constraints ands windows function.
